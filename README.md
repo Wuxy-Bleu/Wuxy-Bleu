@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 📫 How to reach me: wgrantbleuthefall@gmail.com or matteobleu@126.com (for work)
+- - 🔭 I’m currently working on Java & Spring, also *Robert Sedgewick：Algorithms（4th Edition）* 
+
 <!--
 **Wuxy-Bleu/Wuxy-Bleu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
