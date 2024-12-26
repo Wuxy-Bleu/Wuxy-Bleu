@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: wgrantbleuthefall@gmail.com or matteobleu@126.com (basicallly for work)
-- - 🔭 I’m currently working on Java & Spring, also *Robert Sedgewick：Algorithms（4th Edition）* 
+- - 🔭 I’m currently working on *Java & Spring*
 - - 💬 and lots of things **TBD**
 ---
 <details>
